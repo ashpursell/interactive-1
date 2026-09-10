@@ -1,0 +1,18 @@
+body {
+  background-color: #05361c;
+  color: #fff;
+}
+pre {
+  font-family: monospace;
+  color: #fff;
+}
+#exercises {
+  font-family: helvetica, sans-serif;
+  color: #d9ffda;
+  font-size: 30px;
+}
+#projects {
+  font-family: helvetica, sans-serif;
+  color: #fffbd9;
+  font-size: 30px;
+}
